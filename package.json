@@ -9,9 +9,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/moment": "^1.6.1",
     "@nuxtjs/pwa": "^3.3.5",
+    "chart.js": "^2.9.4",
     "core-js": "^3.9.1",
-    "nuxt": "^2.15.3"
+    "nuxt": "^2.15.3",
+    "vue-chartjs": "^3.5.1"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^4.0.1",
