@@ -1,4 +1,6 @@
-# app
+# CoinWorth.Today
+
+See how much your cryptocurrency could have been worth if you had bought in early.
 
 ## Build Setup
 
